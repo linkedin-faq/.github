@@ -1,1 +1,0 @@
-![img](quiz-pic.jpeg)
