@@ -1,1 +1,1 @@
-![img](image-quiz.jpg)
+Linkedin-FAQ
