@@ -1,1 +1,1 @@
-![img](quiz-pic.jpeg)
+![img](image-quiz.jpg)
